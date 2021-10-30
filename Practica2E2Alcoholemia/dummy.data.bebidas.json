@@ -1,0 +1,6 @@
+[{"idBebidas":1,"Nombre":"CERVEZA","CantidadEnMl":330,"GradosAlcohol":0.05},
+{"idBebidas":2,"Nombre":"VINO","CantidadEnMl":100,"GradosAlcohol":0.12},
+{"idBebidas":3,"Nombre":"VERMU","CantidadEnMl":70,"GradosAlcohol":0.17},
+{"idBebidas":4,"Nombre":"LICOR","CantidadEnMl":45,"GradosAlcohol":0.23},
+{"idBebidas":5,"Nombre":"BRANDY","CantidadEnMl":45,"GradosAlcohol":0.38},
+{"idBebidas":6,"Nombre":"COMBINADO","CantidadEnMl":50,"GradosAlcohol":0.38}]
